@@ -175,7 +175,7 @@ html{
     letter-spacing: 1px;
 }
 .about .img_about{
-    background: url(images/cementbricks.png) no-repeat;
+    background: url(/images/cementbricks.png) no-repeat;
     width: 50%;
     background-position: right;
     background-color: #ffc800;
